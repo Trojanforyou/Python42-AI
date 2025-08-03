@@ -9,6 +9,5 @@ def main():
     print(f"Ruby was created by {kata['Ruby']}")
     print(f"PHP was created by {kata['PHP']}")
     
-
 if (__name__ == "__main__"):
     main()
